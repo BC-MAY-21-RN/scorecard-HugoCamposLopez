@@ -66,13 +66,13 @@ career-profile:
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Licenciatura en Educacion primaria
+  - degree: Degree in Elementary Education
     university: Instituto Superior de Educacion Normal del Estado de Colima "Profr Gregorio Torres Quintero"
     time: 2011-2015
     details: |
       
-  - degree: Tecnico en programacion
-    university: Bachillerato Tecnico Numero 1 “Prof. Gregorio Macedo Lopez”
+  - degree: Programming Technician
+    university: Technical Baccalaureate 1 “Prof. Gregorio Macedo Lopez”
     time: 2008-2011
     details: |
     I learned C+ and the programming logic
@@ -81,23 +81,23 @@ educationcomplete:
 experiences:
   - role: Professor
     time: 2018-Present
-    company: Esc. Primeria "Lázaro Cárdenas del Río"
+    company: Elementary School "Lázaro Cárdenas del Río"
     details: |
     I've been working here since 2018 and I've taught the whole elementary school grades.
 
   - role: Professor
     time: May 2018 - July 2018
-    company: Esc. Primaria "Roberto Quiróz Guerra"
+    company: Elementary School "Roberto Quiróz Guerra"
     details: |
 
   - role: Professor
     time: January 2018 - May 2018
-    company: Esc. Urbana 793 "Amelia Villaseñor y Villaseñor"
+    company: Elementary School 793 "Amelia Villaseñor y Villaseñor"
     details: |
 
   - role: Professor
     time: 2015-2018
-    company: Esc. Primaria "Ignacio Manuel Altamirano" - Esc. Primaria "J. Jesús Ventura" - Esc. Primaria "Carlos L. Oldenbourg"
+    company: Elementary School "Ignacio Manuel Altamirano" - Esc. Primaria "J. Jesús Ventura" - Esc. Primaria "Carlos L. Oldenbourg"
     details: |     
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
