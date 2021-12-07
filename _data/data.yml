@@ -15,8 +15,8 @@ sidebar:
   email: hugo.antonio.campos@gmail.com
   phone: 3121124443
   website: # No agregar http://
-  linkedin: www.linkedin.com/in/hugocamposlopez/
-  github: github.com/HugoCamposLopez
+  linkedin: hugocamposlopez
+  github: HugoCamposLopez
   gitlab:
   bitbucket:
   twitter: 
@@ -74,16 +74,14 @@ educationcomplete:
   - degree: Programming Technician
     university: Technical Baccalaureate 1 “Prof. Gregorio Macedo Lopez”
     time: 2008-2011
-    details: |
-    I learned C+ and the programming logic
+    details: I learned C+ and the programming logic
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
   - role: Professor
     time: 2018-Present
     company: Elementary School "Lázaro Cárdenas del Río"
-    details: |
-    I've been working here since 2018 and I've taught the whole elementary school grades.
+    details: I've been working here since 2018 and I've taught the whole elementary school grades.
 
   - role: Professor
     time: May 2018 - July 2018
