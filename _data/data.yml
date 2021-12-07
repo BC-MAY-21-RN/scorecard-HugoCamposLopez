@@ -27,7 +27,11 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
+<<<<<<< HEAD
       level: Competent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+=======
+      level: Intermediate # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+>>>>>>> f034a86d072288af7d146bb7251decf8c7a8798e
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
