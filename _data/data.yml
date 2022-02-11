@@ -109,10 +109,10 @@ skills:
 
   toolset:
     - name: JavaScrypt
-      level: 40%
+      level: 60%
 
     - name: React-Native
-      level: 20%
+      level: 60%
 
     - name: Swift
       level: 20%
