@@ -57,10 +57,9 @@ career-profile:
   title: About Me # NO MODIFICAR
   summary: |
     Hello, my name is Hugo and I'm 28 years old. I'm a elementary school teacher, that's my current job.
-    Right now I'm looking for new adventures and that's the reason I signed in BrightCoders, because I want to be a Software Developer.
-    Videogames guy. If you ask me 'Which is the best game that You've played?' I would say "The last of us".
-    
-    Big fan of "The office" here, I can watch it all day. That's what she said.
+    Passionate about learning new technologies. I like to be involved in all the deveploment cycle phases and participate in challenging projects.
+    One thing that I love about this community is that you can learn from anyone and you can share your knowledge too.
+    6 months working with React-Native using JavaScript as my main tool. Experienced in GITHUB and familiar with the scrum methodology.
 
     I love to talk, well... I mean, in my current job is my main skill so... It is very developed. 
 
@@ -114,11 +113,11 @@ skills:
     - name: React-Native
       level: 60%
 
-    - name: Swift
-      level: 20%
+    - name: HTML
+      level: 40%
 
-    - name: Java
-      level: 20%
+    - name: CSS
+      level: 60%
 
 # NO MODIFICAR
 footer: >
