@@ -27,7 +27,7 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Competent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: Proficient C2 # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
       
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
@@ -94,7 +94,7 @@ experiences:
 
   - role: Professor
     time: 2015-2018
-    company: Elementary School "Ignacio Manuel Altamirano" - Esc. Primaria "J. Jesús Ventura" - Esc. Primaria "Carlos L. Oldenbourg"
+    company: Elementary School "Ignacio Manuel Altamirano" - Elemntary School "J. Jesús Ventura" - Elemntary School "Carlos L. Oldenbourg"
     details: |     
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
